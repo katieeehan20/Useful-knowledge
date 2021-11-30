@@ -1,0 +1,36 @@
+# This is a note about the future of automation in data cleaning process
+
+
+
+# Data scientists spend as much as 80% of their work time cleaning data. 
+
+# Data cleaning involves tasks such as dealing with missing values, 
+and so far these missing values have been filled out manually by subject matter experts who, 
+by using statistical knowledge, they make educated guesses  about these missing values,
+such as by using median or average of data in the dataset or by using predictive models. 
+But automated techniques might work well at handling missing values.
+
+# Oftentimes there's abstraction and no clear distinction in the data science lifecycle... 
+There can be a continuum between multiple phases... of 1) data exploration, 2) data cleaning, and 3) data modelling...
+And sometimes one is not sure how to clearly differentiate between these phases
+
+# But clearly imposing arbitrary categorizations to these steps and 
+defining boundaries between these phases is important to ensure that problems can be solved in modular and contained way. 
+
+#There is a massive need of having pure data cleaning as Data Ops.
+
+# There is still a continued need for putting in human expertise and feeding up the model... 
+A data scientist's subject matter expertise might be necessary to communicate to the system, instead of looking for a full automation
+
+#And even if automation in data cleaning sets in, people will not go jobless.
+People will be able to focus on more important and more high-impact problems, thus things will be more efficient
+
+# Useful things to learn : 
+1) Learn about the history of how people managed database;
+2) and learn about how structured data has evolved 
+
+
+
+
+# Take-away from : https://open.spotify.com/episode/2AccRfCb8MlPb6S2taZMRK?si=QgfALsC6Q-SGwtI3ekv_mA
+# Useful additional read : https://towardsdatascience.com/data-cleaning-is-finally-being-automated-8cc964ea2e12
